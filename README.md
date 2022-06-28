@@ -7,7 +7,7 @@ I love:
 - 🐝 bees.
 - 🖥️ coding.
 - 📚 books.
-- 🌞 and many nother things!
+- 🌞 and many other things!
 
 ## My Github Stats:
 
