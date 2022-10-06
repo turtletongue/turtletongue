@@ -9,13 +9,3 @@ I love:
 - 📚 books.
 - 🌞 and many other things!
 
-## My Github Stats:
-
-<div>
-<a href="https://github-readme-stats.vercel.app/api?username=turtletongue&theme=aura">
-  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=turtletongue&count_private=true&show_icons=true&theme=aura" />
-</a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=turtletongue&hide=html,css,scss&theme=aura">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=turtletongue&hide=html,css,scss&theme=aura" />
-</a>
-</div>
