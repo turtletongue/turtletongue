@@ -3,14 +3,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=ts,react,redux,nextjs,nodejs,nestjs,prisma,postgres,nginx,rust)](https://skillicons.dev)
 
-## 🎓 I'm a Web Developer
-
-I love:
-- 🐝 bees.
-- 🖥️ coding.
-- 📚 books.
-- 🌞 and many other things!
-
 ## 💜 Here are my GitHub stats:
 
 <div>
