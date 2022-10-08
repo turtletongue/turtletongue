@@ -13,4 +13,4 @@ I love:
 
 ## 💜 Here are my GitHub stats:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=turtletongue&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Turtletongue's GitHub stats](https://github-readme-stats.vercel.app/api?username=turtletongue&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=turtletongue&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
